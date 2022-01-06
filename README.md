@@ -1,5 +1,5 @@
 # Node.js 프로젝트 투입 일주일 전
-
+![(입체표지) Node js 프로젝트 투입 일주일 전](https://user-images.githubusercontent.com/21074282/148311195-68e4d732-7ec7-46fc-b6de-a79230cc8d82.png)
 
 - 부제: Node.js의 다양한 모듈을 활용한 웹 서버 개발 실전 노하우
 - 저자: 고승원
@@ -55,3 +55,6 @@
 ## 관련도서
 - [Vue.js 프로젝트 투입 일주일 전](http://www.yes24.com/Product/Goods/101926719)
 - [바닐라 자바스크립트](http://www.yes24.com/Product/Goods/105608999)
+
+<br><br><br>
+![(상세이미지) Node js 프로젝트 투입 일주일 전](https://user-images.githubusercontent.com/21074282/148311171-aab7e10d-40a0-40d0-816e-f73c7dd578f6.jpg)
